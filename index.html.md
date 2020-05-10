@@ -1,4 +1,3 @@
-# ij
 <!doctype html>
 <html>
 	<head>
