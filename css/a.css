@@ -1,0 +1,30 @@
+.wrap	{width: 1200px;
+margin: 0 auto; }
+.content {
+	float: left;
+	background: gray;
+	width: 60%;
+	color: black;
+}
+aside {
+	float: right;
+	background: red;
+	width: 20%; 
+	color: blue;
+	}
+h1   {font-size: 26ht; color: navy; text-align: center;}
+header {margin: 0 auto;
+color: green;}
+footer {margin: 0 auto; width: 50%;
+background: green;
+color: black;
+clear: both;
+}
+a {
+	float:left;
+	width: 20%;
+background: coral;}
+:
+
+	
+	
