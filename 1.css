@@ -1,0 +1,19 @@
+body {
+	background: #FFEBCD url(1.png);
+}
+#container {
+	background: #99cc99;
+	margin: 30px auto;
+	width: 1000px;
+	height 600px;
+}
+#header {
+	background: yellow;
+color: green;}
+#nav {
+	background: #ff9999;
+}
+
+	
+
+ 
